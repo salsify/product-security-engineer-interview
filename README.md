@@ -9,7 +9,7 @@ The goals of the exercise are:
 3. To have a vehicle for deeper discussion in a face to face interview
 
 ## Overview
-The deliverable of this exercise is a document u(format left up to the candidate) describing a threat model using STRIDE or similar methodology for the application component described below. There is no "right" answer, as noted above the exercise is a vehicle for further discussion, and therefore doesn't need to be perfect. We expect the time commitment for this should be a couple of hours. *If you uncover any issues or have questions not answered in this doc, please reach out.* We would gladly answer questions to avoid you spending time on unproductive facets of the exercise.
+The deliverable of this exercise is a document (format left up to the candidate) describing a threat model using STRIDE or similar methodology for the application component described below. That document should be emailed back to the recruiter when completed. There is no "right" answer, as noted above the exercise is a vehicle for further discussion, and therefore doesn't need to be perfect. We expect the time commitment for this should be a couple of hours. *If you uncover any issues or have questions not answered in this doc, please reach out.* We would gladly answer questions to avoid you spending time on unproductive facets of the exercise.
 
 ## Application Description
 The application component for review is a simplified Registration and Login flow for a web based application.
